@@ -9,7 +9,7 @@
       "en"
     ],
     "max_tokens": 8192,
-    "model": "deepseek-chat",
+    "model": "deepseek-flash",
     "provider": "deepseek",
     "temperature": 0.3,
     "throttle_sec": 1
